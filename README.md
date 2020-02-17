@@ -1,4 +1,4 @@
 # Bulldozer_Salesforecasting
 This data set deals with Sales forecasting for a product, By analyzing the past sales and conditions to predict future sale
-# Removes duplicate values 
-# Random Forest Method
+Removes duplicate values 
+Random Forest algorithm
