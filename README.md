@@ -2,9 +2,10 @@
 This data set deals with Sales forecasting for a product, By analyzing the past sales and conditions to predict future sale.
 
 Topics Covered :
-Dealing with NAN and Empty Data set
 
-Decision Tree & Random Forest regresson
+Dealing with NAN and Empty Data sets
+
+Decision Tree & Random Forest regression
 
 Data Splitting
 
